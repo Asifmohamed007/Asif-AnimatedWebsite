@@ -14,7 +14,7 @@
 
   This Website is a fully responsive Animated website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://animatedwebsite.netlify.app"><strong>➥ Live Demo</strong></a>
+  <a href="https://small-animate.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
